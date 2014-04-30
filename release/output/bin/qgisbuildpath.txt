@@ -1,0 +1,2 @@
+/home/aziz/Development/QGIS
+/home/aziz/Development/QGIS/release/output
